@@ -15,7 +15,7 @@ The __virtual__ keyword is not only having a runtime cost, but at the same time 
 
 This page intends to show how the polymorphic behavior can be achieved in C++ without using runtime cost of __virtual__ which ultimately leads to maintenance related problems
 
-## [ Module 1 : understanding __virtual__ keyword of C++](https://github.com/Rapid-9/Polymorphism_without_virtual/tree/master/WhatVirtualDoes)
+## [ Module 1 : understanding __virtual__ keyword of C++](https://github.com/9lean/CPlusPlus_Polymorphism_Without_Virtual/tree/master/WhatVirtualDoes)
 
 
-##[ Module 2 : Polymorphism without __virtual__ using C++ Templates](https://github.com/Rapid-9/Polymorphism_without_virtual/tree/master/PolymorphismWithoutVirtual)
+##[ Module 2 : Polymorphism without __virtual__ using C++ Templates](https://github.com/9lean/CPlusPlus_Polymorphism_Without_Virtual/tree/master/PolymorphismWithoutVirtual)
