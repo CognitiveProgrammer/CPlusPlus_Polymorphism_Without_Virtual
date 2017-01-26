@@ -36,11 +36,11 @@ int main() {
 ```
 Here, the virtual does the trick when we call the function __CallFn__ with __Derived__ class.
 
-*Last but not the least, both classes will have an overhead of 4/8 bytes (depending upon the platform) overhead.*
+*Last but not the least, both classes will have an overhead of 4/8 bytes (depending upon the platform).*
 
 ## 1.2 : Why this kind of inheritance is a problems
 
-Let revisit the class __Base__ and __Derived__, there is nothing to qualify it for having a __IS-A__ relationship. These kinds of class hierarchies spread around code with multiple level which not only creates a confusion but also deprive programmers from taking a command on their code.
+Let revisit the class __Base__ and __Derived__, there is nothing to qualify it for having a __IS-A__ relationship. These kinds of class hierarchies spread around code with multiple level which not only creates a confusion but also deprive programmers from taking a command on their own code.
 
 *Code optimizations by compilers doesn't alter the basic functionality of the code, but in this case the* __Compiler__ *and not the* __Programmer__ *will decide which function should get called at runtime.
 
