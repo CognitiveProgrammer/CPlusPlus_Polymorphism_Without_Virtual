@@ -20,4 +20,4 @@ This page intends to show how the polymorphic behavior can be achieved in C++ wi
 ## [ Module 1 : understanding __virtual__ keyword of C++](https://github.com/9lean/CPlusPlus_Polymorphism_Without_Virtual/tree/master/WhatVirtualDoes)
 
 
-##[ Module 2 : Polymorphism without __virtual__ using C++ Templates](https://github.com/9lean/CPlusPlus_Polymorphism_Without_Virtual/tree/master/PolymorphismWithoutVirtual)
+## [ Module 2 : Polymorphism without __virtual__ using C++ Templates](https://github.com/9lean/CPlusPlus_Polymorphism_Without_Virtual/tree/master/PolymorphismWithoutVirtual)
